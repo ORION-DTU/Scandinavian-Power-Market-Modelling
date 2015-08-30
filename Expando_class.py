@@ -1,0 +1,4 @@
+
+class Expando(object):
+    pass
+    
